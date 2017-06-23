@@ -7,7 +7,7 @@ Bonjour, mon nom est Shylock, actuellement étudiante à l'école du XSYU.Ma sp�
     * This is my Python Learning(Learnning???) Path in GitHub
     * C’est la première fois que je prends la langue(Python) des processus d’apprentissag
     * 这是我的Python语言学习（恩，是否要双写N）路程在Github(好像机翻)
-    * P.S：[每日代码模板](https://github.com/Shylcok/python/blob/master/mode.md)
+P.S.：[每日代码模板](https://github.com/Shylcok/python/blob/master/mode.md)
 
 Day1
 ======
