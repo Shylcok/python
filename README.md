@@ -14,8 +14,8 @@ Day1
 ======
 `12:00 2017-6-23`<br>
 ----
-[Select Python's Version(选择Python版本)](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
 [What is Python(什么是Python)](https://github.com/Shylcok/python/blob/master/PYTHON.md)<br>
+[Select Python's Version(选择Python版本)](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
 
 `14:24 2017-6-23`<br>
 ----
