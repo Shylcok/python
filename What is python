@@ -1,4 +1,7 @@
 What is Python?
+========
+What is Python?
+--------
 Python is a widely used high-level programming language for general-purpose programming,
 created by Guido van Rossum and first released in 1991. An interpreted language, Python
 has a design philosophy which emphasizes code readability (notably using whitespace indentation 
@@ -14,6 +17,7 @@ CPython, the reference implementation of Python, is open source software[26] and
 CPython is managed by the non-profit Python Software Foundation.
 
 什么是Python?
+--------
 Python（英国发音：/ˈpaɪθən/ 美国发音：/ˈpaɪθɑːn/），是一种面向对象、直译式的电脑程序语言。
 它包含了一组功能完备的标准库，能够轻鬆完成很多常见的任务。
 它的语法简单，与其它大多数程序设计语言使用大括号不一样，它使用缩排来定义语句块。
@@ -27,6 +31,7 @@ Python的官方解释器是CPython，该解释器用C语言编写，是一个由
 Python支援命令式程序设计、面向对象程序设计、函数式编程、面向侧面的程序设计、泛型编程多种编程范式。
 
 Quel est Python?
+--------
 Python est un langage de programmation objet, multi-paradigme et multiplateformes.
 Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.
 Il est doté d'un typage dynamique fort, d'une gestion automatique de la mémoire par ramasse-miettes et d'un système de gestion d'exceptions ;
