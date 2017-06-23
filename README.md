@@ -18,6 +18,6 @@ Day1
 [What is Python(什么是Python)](https://github.com/Shylcok/python/blob/master/PYTHON.md)<br>
 `14:24 2017-6-23`<br>
 -----
-[Advantages & Disadvantages(适用与非适用)](https://gihub.com/Shylcok/python/blob/master/Day01_Advantages & Disadvantages.md)
+[Advantages & Disadvantages(适用与非适用)](https://gihub.com/Shylcok/python/blob/master/Day01_Advantages&Disadvantages.md)
 
 
