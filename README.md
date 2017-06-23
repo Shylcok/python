@@ -2,7 +2,7 @@ Intro|Intro|简介
 ===============
 Hello,My name is Shylock,I am a student in xi 'an petroleum university, major in computer science and technology, interest in information-security, programming, football,etc <br><br>
 Bonjour, mon nom est Shylock, actuellement étudiante à l'école du XSYU.Ma spécialité est un L’informatique et la technologie.de la sécurité de l’information, de la programmation, le football,c’est ma passion. <br><br>
-你好，我是王佳宇,就读于西安石油大学计算机科学与技术专业的本科生。爱好信息安全，编程，足球。<br>
+你好，我是王佳宇,一名就读于西安石油大学计算机科学与技术专业的本科生，爱好信息安全，编程，足球。<br>
 
     * This is my Python Learning(Learnning???) Path in GitHub
     * C’est la première fois que je prends la langue(Python) des processus d’apprentissag
