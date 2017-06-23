@@ -16,10 +16,6 @@ Day1
 ----
 [Select Python's Version(选择Python版本)](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
 [What is Python(什么是Python)](https://github.com/Shylcok/python/blob/master/PYTHON.md)<br>
-P.S.`第一次尝试`
-`la première journée du 23 juin 2017`<br>
------
-[Choisir une version Python](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
-[Quel est Python](https://github.com/Shylcok/python/blob/master/PYTHON.md) 
+
 
 
