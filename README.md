@@ -12,18 +12,14 @@ P.S.：[每日代码模板](https://github.com/Shylcok/python/blob/master/mode.m
 
 Day1
 ======
-`Day1 2017-6-23` <br>
+`Day1 2017-6-23(第一天 2017年6月23日)` <br>
 ----
-[Select Python's Version](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
-[What is Python](https://github.com/Shylcok/python/blob/master/PYTHON.md)<br>
-`第一天 2017年6月23日`<br>
-----
-[选择Python版本](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
-[什么是Python](https://github.com/Shylcok/python/blob/master/PYTHON.md)
-
+[Select Python's Version(选择Python版本)](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
+[What is Python(什么是Python)](https://github.com/Shylcok/python/blob/master/PYTHON.md)<br>
+P.S.`第一次尝试`
 `la première journée du 23 juin 2017`<br>
 -----
 [Choisir une version Python](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
-[Quel est Python](https://github.com/Shylcok/python/blob/master/PYTHON.md)
+[Quel est Python](https://github.com/Shylcok/python/blob/master/PYTHON.md) 
 
 
