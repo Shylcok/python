@@ -9,7 +9,8 @@ Je m’ appelle Shylock<br>
     * 这是我的Python语言学习（恩，是否要双写N）路程在Github(好像机翻)
 
 Day1 Select Python's Version&What is Python:<br>
-[第一天 选择Python版本](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)&[什么是Python](https://github.com/Shylcok/python/blob/master/PYTHON.md)
+[第一天 选择Python版本](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
+[什么是Python](https://github.com/Shylcok/python/blob/master/PYTHON.md)
 ------------------
 
 
