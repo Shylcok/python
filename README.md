@@ -12,10 +12,12 @@ P.S.：[每日代码模板](https://github.com/Shylcok/python/blob/master/mode.m
 
 Day1
 ======
-`Day1 2017-6-23(第一天 2017年6月23日)` <br>
+`12:00 2017-6-23`<br>
 ----
 [Select Python's Version(选择Python版本)](https://github.com/Shylcok/python/blob/master/Day01_Select_Version.md)<br>
 [What is Python(什么是Python)](https://github.com/Shylcok/python/blob/master/PYTHON.md)<br>
-
+`14:24 2017-6-23`<br>
+-----
+[Advantages & Disadvantages(适用与非适用)](https://gihub.com/Shylcok/python/blob/master/Day01_Advantages & Disadvantages.md)
 
 
