@@ -13,7 +13,7 @@ Python features a dynamic type system and automatic memory management and suppor
 It has a large and comprehensive standard library.
 
 Python interpreters are available for many operating systems, allowing Python code to run on a wide variety of systems. 
-CPython, the reference implementation of Python, is open source software[26] and has a community-based development model, as do nearly all of its variant implementations.
+CPython, the reference implementation of Python, is open source software and has a community-based development model, as do nearly all of its variant implementations.
 CPython is managed by the non-profit Python Software Foundation.
 
 什么是Python?
